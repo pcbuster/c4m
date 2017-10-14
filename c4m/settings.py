@@ -78,12 +78,7 @@ WSGI_APPLICATION = 'c4m.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'c4m',
-        'USER': 'root',
-        'PASSWORD': 'marchelo05',
-        'HOST': 'localhost',
-        'PORT': '3306',
+        
     }
 }
 
